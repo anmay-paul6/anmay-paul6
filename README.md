@@ -3,7 +3,7 @@
 <h3 align="center">💻 Computer Science & Engineering Student | 🤖 AI Research Enthusiast | 📚 NLP & LLM Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Bangla+NLP+Researcher;Large+Language+Model+Developer;Flutter+Developer;Future+PhD+Researcher"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Researcher;Machine+Learning;Bangla+NLP+Researcher;Large+Language+Model+Developer;"/>
 </p>
 
 <p align="center">
